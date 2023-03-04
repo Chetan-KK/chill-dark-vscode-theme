@@ -1,0 +1,21 @@
+{
+  "name": "chill-dark-theme",
+  "displayName": "chill dark theme",
+  "description": "theme for late night developers",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "chill dark theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/chill dark theme-color-theme.json"
+      }
+    ]
+  }
+}
