@@ -1,6 +1,6 @@
-# chill-dark-theme README
+# chill-dark-theme
 
-## Working with Markdown
+## dark theme
 
 You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
 
