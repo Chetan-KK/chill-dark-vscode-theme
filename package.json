@@ -16,10 +16,13 @@
     "chetan",
     "khulage",
     "chetan-kk",
+    "Chetan-KK",
     "dark mode",
     "super dark theme",
     "super dark",
-    "ultra dark theme"
+    "ultra dark theme",
+    "black theme",
+    "black"
   ],
   "engines": {
     "vscode": "^1.76.0"
