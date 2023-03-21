@@ -4,6 +4,10 @@
 
 ---
 
+If you're a late night developer who loves to code in a dark environment, then this theme is perfect for you! I created this minimal dark theme specifically for those who prefer a simple yet stylish look. With a sleek and sophisticated design, this theme is sure to make your coding experience more enjoyable. Unlike other themes with too many fancy colors, this one is designed to provide a clean and minimalist feel, allowing you to focus on your code without any distractions. So, if you're looking for a cool, elegant, and user-friendly theme for your vscode editor, give this one a try!
+
+---
+
 ### Installation :
 
 - just after installation you will get a promt on top and then click on chill dark theme
