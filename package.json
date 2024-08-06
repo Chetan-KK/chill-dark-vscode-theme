@@ -36,6 +36,11 @@
         "label": "chill dark theme",
         "uiTheme": "vs-dark",
         "path": "./themes/chill dark theme-color-theme.json"
+      },
+      {
+        "label": "chill purple dark theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/chill purple dark theme-color-theme.json"
       }
     ]
   },
