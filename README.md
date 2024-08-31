@@ -24,15 +24,31 @@ or
 
 ---
 
-- home screen
+### Main Dark Theme
 
-![home screen](./screenshots/home.png "theme with code")
+- Main dark home screen
+
+![home screen](./screenshots/dark_theme/dark_theme_home.png "theme with code")
 
 ---
 
-- theme with code
+- Main dark theme with code
 
-![theme with code](./screenshots/withcode.png "theme with code")
+![theme with code](./screenshots/dark_theme/dark_theme_withcode.png "theme with code")
+
+---
+
+### Purplue Dark Theme
+
+- Purplue dark home screen
+
+![home screen](./screenshots/purple_dark_theme/purple_dark_theme_home.png "theme with code")
+
+---
+
+- Purplue dark theme with code
+
+![theme with code](./screenshots/purple_dark_theme/purple_dark_theme_withcode.png "theme with code")
 
 ---
 
