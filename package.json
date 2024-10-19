@@ -2,7 +2,7 @@
   "name": "chill-dark-theme",
   "displayName": "chill dark theme",
   "description": "theme for late night developers",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "publisher": "chetankhulage",
   "icon": "logo.png",
   "homepage": "https://github.com/Chetan-KK/chill-dark-vscode-theme/blob/main/README.md",
@@ -16,19 +16,15 @@
   "keywords": [
     "theme",
     "dark theme",
-    "chetan khulage",
     "chill dark theme",
     "super dark theme",
-    "chetan",
-    "khulage",
-    "chetan-kk",
-    "Chetan-KK",
     "dark mode",
     "super dark theme",
     "super dark",
     "ultra dark theme",
     "black theme",
-    "black"
+    "black",
+    "Chetan-KK"
   ],
   "engines": {
     "vscode": "^1.76.0"
