@@ -22,19 +22,37 @@ or
 
 ## Screenshots
 
+### Orange Magic Dark Theme
+
+- Orange magic home screen
+
+![home screen](./screenshots/orange_magic_theme/orange_magic_theme_home.png)
+
+---
+
+- Orange magic theme with code
+
+![theme with code](./screenshots/orange_magic_theme/orange_magic_theme_withcode.png)
+
+---
+
+- Orange magic theme with code
+
+![theme with code](./screenshots/orange_magic_theme/orange_magic_theme_withcode2.png)
+
 ---
 
 ### Main Dark Theme
 
 - Main dark home screen
 
-![home screen](./screenshots/dark_theme/dark_theme_home.png "theme with code")
+![home screen](./screenshots/dark_theme/dark_theme_home.png)
 
 ---
 
 - Main dark theme with code
 
-![theme with code](./screenshots/dark_theme/dark_theme_withcode.png "theme with code")
+![theme with code](./screenshots/dark_theme/dark_theme_withcode.png)
 
 ---
 
@@ -42,13 +60,13 @@ or
 
 - Purplue dark home screen
 
-![home screen](./screenshots/purple_dark_theme/purple_dark_theme_home.png "theme with code")
+![home screen](./screenshots/purple_dark_theme/purple_dark_theme_home.png)
 
 ---
 
 - Purplue dark theme with code
 
-![theme with code](./screenshots/purple_dark_theme/purple_dark_theme_withcode.png "theme with code")
+![theme with code](./screenshots/purple_dark_theme/purple_dark_theme_withcode.png)
 
 ---
 
